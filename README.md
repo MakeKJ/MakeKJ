@@ -21,7 +21,7 @@ Most of what you’ll find here are learning-driven and research-style projects:
 ## Tools
 
 - Python, C, SQL, R, Julia, MATLAB, Shell, Scala
-- NumPy, Pandas, scikit-learn, PyTorch, TensorFlow
+- NumPy, Pandas, scikit-learn, PyTorch
 - Git, Linux
 
 📫 mk.junttila@gmail.com  
